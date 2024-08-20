@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story Usefull</string>
+
+    <!--    //APP -->
+    <string name="app_dashboard">Cerita Gabut Main Page</string>
+    <string name="app_sign_up">Sign Up</string>
+    <string name="app_sign_in">Sign In</string>
+    <string name="app_sign_out">Sign Out</string>
+    <string name="app_have_account">Dont Have an Account Yet?</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_save">Save</string>
+    <string name="app_language">Change Language</string>
+    <string name="app_theme">Ubah Theme</string>
+
+    <!--    //ITEM -->
+    <string name="item_created_date">Item Created Date</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_add_items">Add Items</string>
+    <string name="item_detail_items">Item Detail</string>
+    <string name="item_description_mandatory">Description must not be empty</string>
+    <string name="item_image_mandatory">Please insert an image first.</string>
+    <string name="item_permission">No Permission Granted</string>
+    <string name="item_choose_picture">Choose Picture from Gallery</string>
+    <string name="item_fail_take_picture">Failed to Take Picture</string>
+    <string name="item_fail_use_camera">Failed to Launch Camera</string>
+
+    <!--    //USER -->
+    <string name="user_invalid_email">Invalid Email Format</string>
+    <string name="user_invalid_password">Password Must Be at Least 8 Characters</string>
+    <string name="user_register_success">User Already Exists!</string>
+    <string name="user_register_failed">Email Added!</string>
+    <string name="user_not_found">User Not Found!</string>
+    <string name="user_login_success">Login Successful</string>
+    <string name="user_input_name">Enter Username</string>
+    <string name="user_input_email">Enter User Email</string>
+    <string name="user_input_password">Enter User Password</string>
+    <string name="user_email">User Email</string>
+    <string name="user_password">User Password</string>
+    <string name="user_name">Username</string>
+
+    <!--    //WAFIQ -->
+    <string name="app_info">Information</string>
+    <string name="wafiq_about_me">About Me</string>
+    <string name="wafiq_about_app">About the App</string>
+    <string name="wafiq_my_name">Wafiq Muhaz</string>
+    <string name="wafiq_my_email">wafiqmuhaz@gmail.com</string>
+</resources>

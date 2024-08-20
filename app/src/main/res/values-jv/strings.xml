@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cerita Ajaib</string>
+
+    <!--    //APP -->
+    <string name="app_dashboard">Halaman Utama Cerita Ajaib</string>
+    <string name="app_sign_up">Daftar</string>
+    <string name="app_sign_in">Masuk</string>
+    <string name="app_sign_out">Keluar</string>
+    <string name="app_have_account">Belum Punya Akun?</string>
+    <string name="app_camera">Kamera</string>
+    <string name="app_gallery">Galeri</string>
+    <string name="app_save">Simpan</string>
+    <string name="app_language">Ubah Basa</string>
+    <string name="app_theme">Ubah Temane</string>
+
+    <!--    //ITEM -->
+    <string name="item_created_date">Tanggal Cerito Dideleng</string>
+    <string name="item_description">Deskripsi Cerito</string>
+    <string name="item_add_items">Tambih Cerito</string>
+    <string name="item_detail_items">Detil Cerito</string>
+    <string name="item_description_mandatory">Deskripsi ora boleh kosong</string>
+    <string name="item_image_mandatory">Masukkan gambar dulu.</string>
+    <string name="item_permission">Ora dadi ninggalan ijin</string>
+    <string name="item_choose_picture">Pilih Gambar saka Galeri</string>
+    <string name="item_fail_take_picture">Gagal ndolali gambar</string>
+    <string name="item_fail_use_camera">Gagal ngaktifake kamera</string>
+
+    <!--    //USER -->
+    <string name="user_invalid_email">Format Email ora valid</string>
+    <string name="user_invalid_password">Password kurang saka 8 karakter</string>
+    <string name="user_register_success">Panganggota wes didaftarke!</string>
+    <string name="user_register_failed">Email wis digunakake!</string>
+    <string name="user_not_found">Panganggota ora kapendak!</string>
+    <string name="user_login_success">Masuk berhasil</string>
+    <string name="user_input_name">Nalika Nulis Jeneng</string>
+    <string name="user_input_email">Nalika Nulis Email</string>
+    <string name="user_input_password">Nalika Nulis Sandi</string>
+    <string name="user_email">Email Panganggota</string>
+    <string name="user_password">Sandi Panganggota</string>
+    <string name="user_name">Jeneng Panganggota</string>
+
+    <!--    //WAFIQ -->
+    <string name="app_info">Informasi</string>
+    <string name="wafiq_about_me">Tentang Aku</string>
+    <string name="wafiq_about_app">Tentang Aplikasi</string>
+    <string name="wafiq_my_name">Wafiq Muhaz</string>
+    <string name="wafiq_my_email">wafiqmuhaz@gmail.com</string>
+
+</resources>

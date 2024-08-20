@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ムダな物語</string>
+
+    <!--    //APP -->
+    <string name="app_dashboard">退屈なストーリーメインページ</string>
+    <string name="app_sign_up">サインアップ</string>
+    <string name="app_sign_in">サインイン</string>
+    <string name="app_sign_out">サインアウト</string>
+    <string name="app_have_account">まだアカウントを持っていませんか？</string>
+    <string name="app_camera">カメラ</string>
+    <string name="app_gallery">ギャラリー</string>
+    <string name="app_save">保存</string>
+    <string name="app_language">言語を変更する</string>
+    <string name="app_theme">テーマの変更</string>
+
+    <!--    //ITEM -->
+    <string name="item_created_date">ストーリー作成日</string>
+    <string name="item_description">ストーリーの説明</string>
+    <string name="item_add_items">ストーリーを追加</string>
+    <string name="item_detail_items">ストーリーの詳細</string>
+    <string name="item_description_mandatory">説明は空にできません</string>
+    <string name="item_image_mandatory">まず画像を挿入してください。</string>
+    <string name="item_permission">許可がありません</string>
+    <string name="item_choose_picture">ギャラリーから画像を選択</string>
+    <string name="item_fail_take_picture">写真の撮影に失敗しました</string>
+    <string name="item_fail_use_camera">カメラの起動に失敗しました</string>
+
+    <!--    //USER -->
+    <string name="user_invalid_email">無効なメール形式</string>
+    <string name="user_invalid_password">パスワードは少なくとも8文字でなければなりません</string>
+    <string name="user_register_success">ユーザーはすでに存在します！</string>
+    <string name="user_register_failed">メールはすでに使用されています！</string>
+    <string name="user_not_found">ユーザーが見つかりません！</string>
+    <string name="user_login_success">ログインに成功しました</string>
+    <string name="user_input_name">ユーザー名を入力してください</string>
+    <string name="user_input_email">ユーザーのメールアドレスを入力してください</string>
+    <string name="user_input_password">ユーザーのパスワードを入力してください</string>
+    <string name="user_email">ユーザーのメールアドレス</string>
+    <string name="user_password">ユーザーのパスワード</string>
+    <string name="user_name">ユーザー名</string>
+
+    <!--    //WAFIQ -->
+    <string name="app_info">情報</string>
+    <string name="wafiq_about_me">私について</string>
+    <string name="wafiq_about_app">アプリについて</string>
+    <string name="wafiq_my_name">ワフィク ムハズ</string>
+    <string name="wafiq_my_email">wafiqmuhaz@gmail.com</string>
+
+</resources>

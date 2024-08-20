@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Cerita Gabut</string>
+
+    <!--    //APP -->
+    <string name="app_dashboard">Halaman Utama Cerita Gabut</string>
+    <string name="app_sign_up">Daftar</string>
+    <string name="app_sign_in">Masuk</string>
+    <string name="app_sign_out">Keluar</string>
+    <string name="app_have_account">Belum Punya Akun?</string>
+    <string name="app_camera">Kamera</string>
+    <string name="app_gallery">Galeri</string>
+    <string name="app_save">Simpan</string>
+    <string name="app_language">Ubah Bahasa</string>
+    <string name="app_theme">Ubah Tema</string>
+
+    <!--    //ITEM -->
+    <string name="item_created_date">Tanggal Cerita Dibuat</string>
+    <string name="item_description">Deskripsi Cerita</string>
+    <string name="item_add_items">Tambah Cerita</string>
+    <string name="item_detail_items">Detail Cerita</string>
+    <string name="item_description_mandatory">Deskripsi tidak boleh kosong</string>
+    <string name="item_image_mandatory">Masukkan gambar dahulu.</string>
+    <string name="item_permission">Tidak mendapatkan izin</string>
+    <string name="item_choose_picture">Pilih Gambar dari Galeri</string>
+    <string name="item_fail_take_picture">Gagal mengambil gambar</string>
+    <string name="item_fail_use_camera">Gagal menjalankan kamera</string>
+
+    <!--    //USER -->
+    <string name="user_invalid_email">Format Email tidak valid</string>
+    <string name="user_invalid_password">Password kurang dari 8 karakter</string>
+    <string name="user_register_success">User ditambahkan!</string>
+    <string name="user_register_failed">Email sudah digunakan!</string>
+    <string name="user_not_found">User tidak ditemukan!</string>
+    <string name="user_login_success">Login berhasil masuk</string>
+    <string name="user_input_name">Masukan Nama Pengguna</string>
+    <string name="user_input_email">Masukan Email Pengguna</string>
+    <string name="user_input_password">Masukan Password Pengguna</string>
+    <string name="user_email">Email Pengguna</string>
+    <string name="user_password">Password Pengguna</string>
+    <string name="user_name">Nama Pengguna</string>
+
+
+    <!--    //WAFIQ -->
+    <string name="app_info">Informasi</string>
+    <string name="wafiq_about_me">Tentang Saya</string>
+    <string name="wafiq_about_app">Tentang Aplikasi</string>
+    <string name="wafiq_my_name">Wafiq Muhaz</string>
+    <string name="wafiq_my_email">wafiqmuhaz@gmail.com</string>
+</resources>
